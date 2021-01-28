@@ -1,0 +1,15 @@
+{
+  "query_type": "select",
+  "queries": [
+    {
+      "field": "username",
+      "table": "users",
+      "schema": "users"
+    },
+    {
+      "field": "fname",
+      "table": "pictures",
+      "schema": "media"
+    }
+  ]
+}
